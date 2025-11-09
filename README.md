@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data analytics and migration**
 
-- 🌱 I’m currently learning **Snowflake and Pyspark**
+- 🌱 I’m currently learning **Snowflake and IICS**
 
 - 👯 I’m looking to collaborate on **Cloud Native projects**
 
